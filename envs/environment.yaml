@@ -1,0 +1,5 @@
+name: ctci
+channels:
+  - defaults
+dependencies:
+  - nose
